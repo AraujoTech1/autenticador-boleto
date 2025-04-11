@@ -28,8 +28,8 @@ Este projeto foi criado para usabilidade prática e validações reais de estrut
 - **Teste de funcionamento:** Foram testados boletos com diferentes bancos e valores;
 - **Captura de teste realizado:**
 
-## Tecnologias e Linguagens Utilizadas
 
+## Tecnologias e Linguagens 
 ![Python](https://img.shields.io/badge/Python-3.11-grey?logo=python&logoColor=black)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-grey?logo=python&logoColor=black)
 ![OCR](https://img.shields.io/badge/OCR-Recognition-grey?logo=google&logoColor=black)

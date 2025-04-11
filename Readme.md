@@ -1,7 +1,5 @@
 <h1 align="center">  💵 Autenticador de Boletos Bancários com Python</h1>
 
----
-
 ## Descrição do Projeto
 
 O **Autenticador de Boletos** é um sistema simples e eficaz desenvolvido com Python, que permite ao usuário:
@@ -27,7 +25,9 @@ Este projeto foi criado para usabilidade prática e validações reais de estrut
 - **Teste de depuração:** Tratamento de falhas ao ler imagens ou digitar códigos inválidos;
 - **Teste de funcionamento:** Foram testados boletos com diferentes bancos e valores;
 - **Captura de teste realizado:**
-
+<p align="center">
+  <img src="./img/img.teste.png" width="750" />
+</p>
 
 ## Tecnologias e Linguagens 
 ![Python](https://img.shields.io/badge/Python-3.11-grey?logo=python&logoColor=black)

@@ -26,7 +26,7 @@ Este projeto foi criado para usabilidade prática e validações reais de estrut
 - **Teste de funcionamento:** Foram testados boletos com diferentes bancos e valores;
 - **Captura de teste realizado:**
 <p align="center">
-  <img src="./img/img.teste.png" width="750" />
+  <img src="./img/img.teste.png" width="450" />
 </p>
 
 ## Tecnologias e Linguagens 
